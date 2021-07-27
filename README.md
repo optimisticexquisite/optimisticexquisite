@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @optimisticexquisite
 - 👀 I’m interested in Computer Science and Physics
-- 🌱 I’m currently studying BSc(Research) from Indian Institute of Science, Bangalore (Expected-2025)
 - 📫 Instagram profile(_optimisticexquisite_)
 
 <!---
